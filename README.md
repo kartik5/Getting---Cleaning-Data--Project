@@ -31,4 +31,6 @@ Run the R script run_analysis.r. It calls the R Markdown file, run_analysis.Rmd,
 Outputs produced
 
 Tidy dataset file DatasetHumanActivityRecognitionUsingSmartphones.txt (tab-delimited text)
+
+
 Codebook file codebook.md (Markdown)
